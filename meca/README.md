@@ -1,2 +1,3 @@
 #This is the mecanical part of the project
-Please add a description here
+
+This project will be designed with freecad. Please see src/ to find freecad project sources. 
